@@ -2,19 +2,20 @@
 
 ## 📌 Project Overview
 This project analyzes data from the public libraries of Pankow (Berlin) to explore user behavior, collection management, and library performance.  
-It demonstrates how data-driven insights can support decision-making and strategic development in public libraries.  
+It demonstrates how data-driven insights can support decision-making and strategic development in public libraries.
 
 ## 🎯 Objectives
 - Provide an overview of user profiles  
 - Disprove common assumptions about collection management  
 - Explore spatial patterns through data mapping  
 - Evaluate the collection with key performance indicators (KPI)  
-- Present a dashboard as a tool for library management  
+- Present a dashboard as a tool for library management
 
-## 🛠️ Tools & Methods
-- **Languages & Libraries**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
-- **Visualization**: Tableau, Jupyter Notebook  
-- **Techniques**: Data cleaning, exploratory data analysis, geospatial mapping, KPI evaluation, dashboard design  
+## 📄 Project Presentation
+
+[![Project Presentation](./images/presentation_preview.jpeg)](./docs/Pankow_libraries_Presentation.pdf)
+
+👉 Click on the image or [here](./docs/StadtbibliothekPankow_Presentation.pdf) to view the full project presentation (PDF).
 
 ## 📊 Key Insights (examples)
 - Borrowing habits differ significantly across age groups.  
@@ -38,3 +39,7 @@ It demonstrates how data-driven insights can support decision-making and strateg
 
 👉 Click on the image or [here](https://public.tableau.com/views/DashboardStadtbibliothekPankow/KLR2?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to explore the interactive Tableau dashboard.
 
+## 🛠️ Tools & Methods
+- **Languages & Libraries**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
+- **Visualization**: Tableau, Jupyter Notebook  
+- **Techniques**: Data cleaning, exploratory data analysis, geospatial mapping, KPI evaluation, dashboard design
