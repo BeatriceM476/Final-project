@@ -25,3 +25,9 @@ It demonstrates how data-driven insights can support decision-making and strateg
 ![Age pyramid](./images/Alterspyramide.png)
 ![Borrowing habits by age group](./images/Line_Ausleihzahl_Alter_Geschlecht.png)
 ![Effizienz](./images/Scatter_Effizienz.png)
+
+## 🗺️ Interactive Map
+
+[![Interactive Map Screenshot](./images/map_preview.png)](https://beatricem476.github.io/Final-project/dualmap_nutzer_prets.html)
+
+👉 Click on the image or [here](https://beatricem476.github.io/Final-project/dualmap_nutzer_prets.html) to explore the full interactive map.
