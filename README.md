@@ -21,3 +21,5 @@ It demonstrates how data-driven insights can support decision-making and strateg
 - Spatial analysis reveals library usage varies strongly by neighborhood.  
 - Collection performance can be assessed through KPIs, supporting more efficient management.
 
+## 📈 Data Insights
+![Age pyramid](./images/Alterspyramide.png)
