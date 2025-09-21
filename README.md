@@ -23,3 +23,5 @@ It demonstrates how data-driven insights can support decision-making and strateg
 
 ## 📈 Data Insights
 ![Age pyramid](./images/Alterspyramide.png)
+![Borrowing habits by age group](./images/Line Ausleihzahl vs Alter vs Geschlecht.png)
+![Effizienz](./images/Scatter Effizienz.png)
