@@ -31,3 +31,10 @@ It demonstrates how data-driven insights can support decision-making and strateg
 [![Interactive Map Screenshot](./images/Map_Pankow.png)](https://beatricem476.github.io/Final-project/dualmap_nutzer_prets.html)
 
 👉 Click on the image or [here](https://beatricem476.github.io/Final-project/dualmap_nutzer_prets.html) to explore the full interactive map.
+
+## 📊 Interactive Dashboard
+
+[![Tableau Dashboard Screenshot](./images/Dashboard_KLR.png)](https://public.tableau.com/views/DashboardStadtbibliothekPankow/KLR2?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+👉 Click on the image or [here](https://public.tableau.com/views/DashboardStadtbibliothekPankow/KLR2?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to explore the interactive Tableau dashboard.
+
