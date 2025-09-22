@@ -4,13 +4,6 @@
 This project analyzes data from the public libraries of Pankow (Berlin) to explore user behavior, collection management, and library performance.  
 It demonstrates how data-driven insights can support decision-making and strategic development in public libraries.
 
-## 🎯 Objectives
-- Provide an overview of user profiles  
-- Disprove common assumptions about collection management  
-- Explore spatial patterns through data mapping  
-- Evaluate the collection with key performance indicators (KPI)  
-- Present a dashboard as a tool for library management
-
 ## 📄 Project Presentation
 
 [![Project Presentation](./images/presentation_preview.jpeg)](./docs/Pankow_libraries_Presentation.pdf)
@@ -22,10 +15,15 @@ It demonstrates how data-driven insights can support decision-making and strateg
 - Spatial analysis reveals library usage varies strongly by neighborhood.  
 - Collection performance can be assessed through KPIs, supporting more efficient management.
 
-## 📈 Data Insights
+## 📈 Visualizations
 ![Age pyramid](./images/Alterspyramide.png)
+*Age distribution of library users.*
+
 ![Borrowing habits by age group](./images/Line_Ausleihzahl_Alter_Geschlecht.png)
+*Borrowing patterns show differences across age and gender.*
+
 ![Effizienz](./images/Scatter_Effizienz.png)
+*KPI-based evaluation of collection efficiency.*
 
 ## 🗺️ Interactive Map
 
