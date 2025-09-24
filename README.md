@@ -8,9 +8,9 @@ It demonstrates how data-driven insights can support decision-making and strateg
 
 ## 📄 Project Presentation
 
-[![Project Presentation](./images/presentation_preview.jpeg)](./docs/Pankow_libraries_Presentation.pdf)
+[![Project Presentation](./images/presentation_preview.jpeg)](./docs/Pankow_Libraries_Presentation.pdf)
 
-👉 Click on the image or [here](./docs/StadtbibliothekPankow_Presentation.pdf) to view the full project presentation (PDF).
+👉 Click on the image or [here](./docs/Pankow_Libraries_Presentation.pdf) to view the full project presentation (PDF).
 
 ---
 
